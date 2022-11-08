@@ -1,3 +1,8 @@
+:root{
+    --
+}
+
+
 .header-font {
     font-family: 'Anton', sans-serif;
     padding-top: 7em;
@@ -65,4 +70,57 @@ body {
     font-family: 'Anton', sans-serif;
     padding-top: 1em;
 
+}
+h6 {
+    text-align: center;
+    margin-top: 3em;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3em;
+
+}
+
+#circle5 {
+    background-color: #e6563b;
+    height: 18px;
+    width: 18px;
+    color: black;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    border-radius: 100%;
+}
+#circle6 {
+    background-color: #eb9d3a;
+    height: 18px;
+    width: 18px;
+    color: black;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    border-radius: 100%;
+}
+#circle7 {
+    background-color: #7cb06c;
+    height: 18px;
+    width: 18px;
+    color: black;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    border-radius: 100%;
+}
+#circle8 {
+    background-color: #00aba9;
+    height: 18px;
+    width: 18px;
+    color: black;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    border-radius: 100%;
+}
+.flex-grow-1 {
+    flex-direction: row-reverse;
+    justify-content: center;
 }

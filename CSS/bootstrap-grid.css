@@ -1,6 +1,68 @@
 .header-font {
     font-family: 'Anton', sans-serif;
+    padding-top: 7em;
+    color: black;
 }
 body {
     font-family: 'Abel', sans-serif;
+    background-color: lightgray;
+}
+.bg-grey{
+    background-color: lightgray;
+}
+
+
+#circle1 {
+    background-color: #e6563b;
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    border: 5px solid white;
+    color: white;
+    float: left;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    padding-top: 1em;
+}
+
+#circle2 {
+    background-color: #eb9d3a;
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    border: 5px solid white;
+    color: white;
+    float: left;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    padding-top: 1em;
+
+}
+
+#circle3 {
+    background-color: #7cb06c;
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    border: 5px solid white;
+    color: white;
+    float: left;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    padding-top: 1em;
+
+}
+
+#circle4 {
+    background-color: #00aba9;
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    border: 5px solid white;
+    color: white;
+    float: left;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+    padding-top: 1em;
+
 }
